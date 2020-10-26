@@ -1,1 +1,2 @@
 # 2DLevelDesign
+Created using the 2D Game kit from unity asset store. This design goals for this level was to combine somewhat difficult platforming ideas with puzzles that encourage the player to explore and choose which way they want to go. The level is featuring differently themed sub areas like an alien temple and cave in a mountainous region. The platforming challenges iterate to increase the difficulty and there is a mini-boss battle near the end.
